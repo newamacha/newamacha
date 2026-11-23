@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 140" width="840" height="140" role="img" aria-label="OneMoreSecure: Refactored a live security API across 30+ files without changing what it does, reworked role-based access and built customer impersonation." font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"><rect x="1" y="1" width="838" height="138" rx="14" fill="#f6f8fa" stroke="#d8dee4"/>
+<text x="36" y="66" font-size="34" font-weight="700" fill="#1f7a5c">&#8722;3,800</text>
+<text x="37" y="90" font-size="13" fill="#59636e">lines, same behaviour</text>
+<line x1="208" y1="26" x2="208" y2="114" stroke="#d8dee4"/>
+<text x="236" y="45" font-size="18" font-weight="700" fill="#1f2328">OneMoreSecure</text>
+<text x="806" y="45" text-anchor="end" font-size="16" fill="#59636e">&#8599;</text>
+<text font-size="14.5" fill="#59636e"><tspan x="236" y="72">Refactored a live security API across 30+ files without changing what it</tspan><tspan x="236" y="93">does, reworked role-based access and built customer impersonation.</tspan></text>
+<text x="236" y="120" font-size="12.5" letter-spacing=".4" fill="#8a6d1f">ASP.NET CORE  ·  EF CORE  ·  SONARQUBE  ·  ROLE ACCESS</text></svg>

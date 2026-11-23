@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 140" width="840" height="140" role="img" aria-label="TulipsHRM: Designed the database for a cloud HR platform, then moved every client across with one reusable T-SQL migration covering about 300 tables." font-family="'Segoe UI',system-ui,-apple-system,Helvetica,Arial,sans-serif"><rect x="1" y="1" width="838" height="138" rx="14" fill="#151b23" stroke="#2b323b"/>
+<text x="36" y="66" font-size="34" font-weight="700" fill="#7fc8a9">10+</text>
+<text x="37" y="90" font-size="13" fill="#8d96a0">clients migrated</text>
+<line x1="208" y1="26" x2="208" y2="114" stroke="#2b323b"/>
+<text x="236" y="45" font-size="18" font-weight="700" fill="#e6edf3">TulipsHRM</text>
+<text x="806" y="45" text-anchor="end" font-size="16" fill="#8d96a0">&#8599;</text>
+<text font-size="14.5" fill="#8d96a0"><tspan x="236" y="72">Designed the database for a cloud HR platform, then moved every client</tspan><tspan x="236" y="93">across with one reusable T-SQL migration covering about 300 tables.</tspan></text>
+<text x="236" y="120" font-size="12.5" letter-spacing=".4" fill="#d6c28f">SQL SERVER  ·  T-SQL  ·  EF CORE  ·  DATA MIGRATION</text></svg>
